@@ -4,7 +4,7 @@
 
 🔗 **Live Demos:**
 - [View on Netlify](https://food-fusion-assignment8.netlify.app/)
-- [View on Vercel](https://assignment-1-counter-application.vercel.app/)
+- [View on Vercel](https://assignment-8-food-fusion-website.vercel.app/)
 
 ## Key Features
 
